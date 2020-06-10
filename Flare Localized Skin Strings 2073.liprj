@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="nl" xml:lang="nl" SourceLanguage="en" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceSourceControlBound="true" SourceSourceControlProviderType="Git" SourceSourceControlDatabase="file:///C:/Users/cchristensen/AppData/Local/MadCap Software/Flare Localized Skin Strings 2073/.git/" SourceSourceControlDatabaseRoot="https://github.com/test1MC/Lucy.git/" SourceProjectGuid="6d88d9cb-a12b-4bec-bf9e-6fc52c15654f" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="0471c0ca-ef9f-49c6-9bc3-0db3866a7346">
+    <ProjectFile Source="Target/TN17.flprj" Target="Target/TN17.flprj" />
+</LingoProject>
